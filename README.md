@@ -1,2 +1,2 @@
 # Sketch.js
-Recriando Jogos Clássicos com Javascript - Sketch
+Recriando Jogos Clássicos com Javascript - Freeway
